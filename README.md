@@ -1,8 +1,6 @@
 # Drug Overdose Analysis in Pennsylvania
 An exploration and analysis of an openly available overdose dataset from Open Data Pennsylvania. Includes data cleaning, EDA, modeling and model interpretation through SHAP.
 
-## Background and Research Questions
-
 ## Impact of opioids in Pennsylvania
 
 In 2017, the state of Pennsylvania had a population of 12.79 Million and:
